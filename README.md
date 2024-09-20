@@ -63,7 +63,7 @@ This project provides a simple and interactive **Text Encryption and Decryption 
   - Decrypted Message: `hello`
 
 
-## Screenshots
+## Screenshot
 ![image](https://github.com/user-attachments/assets/0ec79801-1c3d-4f1e-a004-1600b2ef39f4)
 
 ## Contributing
